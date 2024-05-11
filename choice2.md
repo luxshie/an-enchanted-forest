@@ -4,4 +4,7 @@ Intrigued by the allure of the hidden trail, you veer off the main path and ente
 
 As you walk along the trail, you notice unusual markings on the trees, hinting at a forgotten civilization. You also hear faint whispers carried by the wind, as if the forest itself is trying to communicate with you.
 
+You heard a whisper, follow the whisper?
+[Follow](./choice4.md)
+
 [Choose Again?](./intro.md)
