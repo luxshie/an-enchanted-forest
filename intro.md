@@ -12,4 +12,4 @@ What path will you take?
 1.
 2.
 3. [shadowy path](./choice3.md)
-4.
+4. [Whispers of the Enchanted Forest](./choice4.md)
