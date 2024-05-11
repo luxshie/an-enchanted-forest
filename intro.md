@@ -10,6 +10,6 @@ What path will you take?
 
 ## List
 1. [The Shimmering Path](./choice1.md) 
-2.
-3.
-4.
+2. [Hidden Trail](./choice2.md)
+3. [shadowy path](./choice3.md)
+4. [Whispers of the Enchanted Forest](./choice4.md)
