@@ -11,5 +11,5 @@ What path will you take?
 ## List
 1.
 2.
-3.  [shadowy path](./choice3.md)
+3. [shadowy path](./choice3.md)
 4.
