@@ -10,6 +10,6 @@ What path will you take?
 
 ## List
 1.
-2.
+2. [Hidden Trail](./choice2.md)
 3.
 4. [Whispers of the Enchanted Forest](./choice4.md)
